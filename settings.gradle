@@ -1,0 +1,9 @@
+rootProject.name = 'ticket-msa' // 프로젝트 이름
+
+// 하위 모듈들을 여기에 등록합니다.
+//include 'service'
+//include 'service:user'
+include 'service:concert'
+//include 'service:booking'
+// include 'gateway-service' // 나중에 추가
+// include 'discovery-service' // 나중에 추가
